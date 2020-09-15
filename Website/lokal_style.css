@@ -1,0 +1,16 @@
+header{
+ text-align:center;
+}
+
+.container {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.main-logo {
+	display: inline-block;
+	height: 100px;
+    width: auto;
+    transform: scale(0.35);
+}
