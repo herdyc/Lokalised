@@ -1,1 +1,2 @@
 # Lokalised
+Lokalised startup project
